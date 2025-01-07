@@ -5,7 +5,7 @@ not a very robust system but a modular enough system to test movement, shooting 
 
 <h1> In detail</h1>
 1. Project consists of a single weapon system
-2. Weapon can be modified with firerate, animation, Shoot Range, etc,,
+2. Weapon can be modified with realod, firerate, animation, Shoot Range, etc,,
 **MORE ON Recoil**
 Recoil system Consist of multiple States
 1. Walking 2. Idle 3. Player ADS/Not in ADS
