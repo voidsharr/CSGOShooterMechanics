@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Blueprint Name="CS_Fire_Full"
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="EventGraph"
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      bAllowDeletion=False
+      GraphGuid=59C76A134DD56BB563E9E2BDDD612DD5
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   ParentClass=Class'"/Script/GameplayCameras.MatineeCameraShake"'
+   BlueprintSystemVersion=2
+   UbergraphPages(0)=EdGraph'"EventGraph"'
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+   GeneratedClass=BlueprintGeneratedClass'"CS_Fire_Full_C"'
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=2704CDD04A126BA119B6CAA604E7F626
+End Object
