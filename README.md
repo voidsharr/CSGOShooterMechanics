@@ -16,5 +16,5 @@ The weapon also consists of impact vfx based upon surface (Wood, Metal, Stone).
 
 Player is using default CMC Provided in Unreal Engine 5.4
 
-<h1>Provided</h1>
+<h1>extras</h1>
 a basic prototype map, and a few free assets.
